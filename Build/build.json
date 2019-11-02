@@ -1,0 +1,13 @@
+{
+"companyName": "奈良",
+"productName": "フォーミュ奈良",
+"dataUrl": "build.data.unityweb",
+"wasmCodeUrl": "build.wasm.code.unityweb",
+"wasmFrameworkUrl": "build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 117440512,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
